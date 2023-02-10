@@ -1,0 +1,22 @@
+/* == bootstrap == */
+@import url("plugins/bootstrap.min.css");
+
+/* == animate css == */
+@import url("plugins/animate.css");
+
+/* == owl.carousel == */
+@import url("plugins/owl.carousel.min.css");
+@import url("plugins/owl.theme.default.min.css");
+
+/* ==  Magnific PopUp ==*/
+@import url("plugins/magnific-popup.css");
+
+/* == themify icon font == */
+@import url("plugins/themify-icons.css");
+
+/* == et-lineicons icons ==*/
+@import url("plugins/et-lineicons.css");
+
+
+/* == YouTubePopUp == */
+@import url("plugins/YouTubePopUp.css");
